@@ -20,5 +20,3 @@ Starting from the rightmost digit, double every second digit.
 If the result of doubling a digit is greater than 9, add the two digits together to get a single-digit number.
 Sum all the digits.
 If the total sum is divisible by 10, the credit card number is valid.
-License
-This program is licensed under the MIT License. See the LICENSE file for more information.
